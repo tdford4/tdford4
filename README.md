@@ -33,9 +33,5 @@
 ### 💬 Connect
 
 - 🔗 [Résumé Website](https://tdford4.github.io/TirikFord.github.io/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tirikford)  
 - ✉️ [Tirik.Ford@gmail.com](mailto:Tirik.Ford@gmail.com)
 
----
-
-### 💼 Professional Experience
