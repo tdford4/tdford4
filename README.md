@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/badge/website-tdford4.github.io/TirikFord.github.io-66fcf1?style=for-the-badge&logo=github)](https://tdford4.github.io/TirikFord.github.io/)
 [![Email](https://img.shields.io/badge/email-Tirik.Ford@gmail.com-45a29e?style=for-the-badge&logo=maildotru)](mailto:Tirik.Ford@gmail.com)
-[![Location](https://img.shields.io/badge/location-Washington%2C%20DC-0b0c10?style=for-the-badge)](https://www.google.com/maps)
 
 ---
 
